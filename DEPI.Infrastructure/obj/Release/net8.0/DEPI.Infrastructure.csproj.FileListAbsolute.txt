@@ -1,0 +1,17 @@
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\bin\Release\net8.0\DEPI.Infrastructure.deps.json
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\bin\Release\net8.0\DEPI.Infrastructure.runtimeconfig.json
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\bin\Release\net8.0\DEPI.Infrastructure.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\bin\Release\net8.0\DEPI.Infrastructure.pdb
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\bin\Release\net8.0\DEPI.Core.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\bin\Release\net8.0\DEPI.Core.pdb
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Inf.232D19E3.Up2Date
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\refint\DEPI.Infrastructure.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.pdb
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\DEPI.Infrastructure.genruntimeconfig.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Infrastructure\obj\Release\net8.0\ref\DEPI.Infrastructure.dll

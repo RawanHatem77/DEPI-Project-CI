@@ -1,0 +1,12 @@
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\bin\Debug\net8.0\DEPI.Core.deps.json
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\bin\Debug\net8.0\DEPI.Core.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\bin\Debug\net8.0\DEPI.Core.pdb
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.csproj.AssemblyReference.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.AssemblyInfoInputs.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.AssemblyInfo.cs
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\refint\DEPI.Core.dll
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\DEPI.Core.pdb
+C:\Users\Salma\source\repos\DEPI-Project\DEPI.Core\obj\Debug\net8.0\ref\DEPI.Core.dll
