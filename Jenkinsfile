@@ -1,4 +1,4 @@
-@Library('depi')_
+@Library('Depi')_
 
 pipeline {
     // agent any
