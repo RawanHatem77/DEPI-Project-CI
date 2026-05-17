@@ -10,7 +10,7 @@ pipeline {
         stage('Build java') {
             steps {
                 script {
-                    def mvn = new come.depi.mvnClass()
+                    def mvn = new com.depi.mvnClass()
                     mvn.packgeJar('-DskipTests')
                 }
             }
@@ -18,7 +18,7 @@ pipeline {
         stage('Test java') {
             steps {
                 script {
-                    def mvn = new come.depi.mvnClass()
+                    def mvn = new com.depi.mvnClass()
                     mvn.testJar('-')
                 }
             }
@@ -26,7 +26,7 @@ pipeline {
         stage('Build docker ') {
             steps {
                 script {
-                    def docker = new come.depi.dockerClass()
+                    def docker = new com.depi.dockerClass()
                     docker.dockerBuild('myapp', 'latest')  // check parameters
                 }
             }
