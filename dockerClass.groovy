@@ -8,7 +8,7 @@ class dockerClass implements Serializable {
         this.steps = steps
     }
     def dockerBuild(imageName , imageTag) {
-        sh " docker build -t ${imageName}:${imageTag} ."
+        steps.sh " docker build -t ${imageName}:${imageTag} ."
     }
 
 }

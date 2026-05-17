@@ -1,16 +1,19 @@
 package com.depi
 
-class mvnClass implements Serializable {
+class mvnclass implements Serializable {
+
     def steps
 
-    mvnClass(steps) {
+    mvnclass(steps) {
         this.steps = steps
+    }
 
     def packageJar(packagejavaOpt) {
-        sh " mvn clean package install ${packagejavaOpt} "
+        steps.sh " mvn clean package install ${packagejavaOpt} "
     }
     def testJar(testjavaOpt) {
-        sh " mvn clean package install ${testjavaOpt} "
+        steps.sh " mvn clean package install ${testjavaOpt} "
     }
-    }
+
+}
 

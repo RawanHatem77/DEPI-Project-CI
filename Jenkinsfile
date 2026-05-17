@@ -1,4 +1,4 @@
-@Library('Depi')_
+@Library('Depi')
 
 pipeline {
     agent any
@@ -10,7 +10,7 @@ pipeline {
         stage('Build java') {
             steps {
                 script {
-                    def mvn = new com.depi.mvnClass()
+                    def mvn = new com.depi.mvnclass(this)
                     mvn.packageJar('-DskipTests')
                 }
             }
@@ -18,7 +18,7 @@ pipeline {
         stage('Test java') {
             steps {
                 script {
-                    def mvn = new com.depi.mvnClass()
+                    def mvn = new com.depi.mvnclass(this)
                     mvn.testJar('-')
                 }
             }
@@ -26,7 +26,7 @@ pipeline {
         stage('Build docker ') {
             steps {
                 script {
-                    def docker = new com.depi.dockerClass()
+                    def docker = new com.depi.dockerClass(this)
                     docker.dockerBuild('myapp', 'latest')  // check parameters
                 }
             }
