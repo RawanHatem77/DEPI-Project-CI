@@ -12,4 +12,3 @@ class dockerClass implements Serializable {
     }
 
 }
-
