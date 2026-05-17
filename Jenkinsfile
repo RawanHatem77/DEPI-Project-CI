@@ -1,7 +1,7 @@
 @Library('Depi')_
 
 pipeline {
-    // agent any
+    agent any
     tools {
         jdk 'jdk-11'
         maven 'mvn-3-5-4'
@@ -11,7 +11,7 @@ pipeline {
             steps {
                 script {
                     def mvn = new com.depi.mvnClass()
-                    mvn.packgeJar('-DskipTests')
+                    mvn.packageJar('-DskipTests')
                 }
             }
         }

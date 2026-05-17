@@ -1,9 +1,16 @@
 package com.depi
 
-/* groovylint-disable-next-line NoDef */
-def packgeJar(packagejavaOpt) {
-    sh " mvn clean packge install ${packagejavaOpt} "
-}
-def testJar(testjavaOpt) {
-    sh " mvn clean packge install ${testjavaOpt} "
-}
+class mvnClass implements Serializable {
+    def steps
+
+    mvnClass(steps) {
+        this.steps = steps
+
+    def packageJar(packagejavaOpt) {
+        sh " mvn clean package install ${packagejavaOpt} "
+    }
+    def testJar(testjavaOpt) {
+        sh " mvn clean package install ${testjavaOpt} "
+    }
+    }
+
